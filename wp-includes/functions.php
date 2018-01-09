@@ -8,6 +8,8 @@
 require( ABSPATH . WPINC . '/option.php' );
 
 /**
+ * #update_option( 'siteurl', 'http://tranhlua3d.com' );
+ * #update_option( 'home', 'http://tranhlua3d.com' );
  * Convert given date string into a different format.
  *
  * $format should be either a PHP date format string, e.g. 'U' for a Unix
