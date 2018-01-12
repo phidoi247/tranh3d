@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<name>Mã đáo 1</name>
+		<description>Mã đáo 1 long description</description>
+		<short-description>Mã đáo 1 short description</short-description>
+		<price>100000</price>
+		<sale-price>90000</sale-price>
+		<category>Mã Đáo</category>
+		<image>http://tranhlua3d.com/product-image/md1.jpg</image>
+		<library>
+			<item>http://tranhlua3d.com/product-image/md25.jpg</item>
+			<item>http://tranhlua3d.com/product-image/md26.jpg</item>
+			<item>http://tranhlua3d.com/product-image/md27.jpg</item>
+		</library>
+	</product>
+	<product>
+		<name>Mã đáo 2</name>
+		<description>Mã đáo 2 long description</description>
+		<short-description>Mã đáo 2 short description</short-description>
+		<price>100000</price>
+		<sale-price>90000</sale-price>
+		<category>Mã Đáo</category>
+		<image>http://tranhlua3d.com/product-image/md2.jpg</image>
+		<library>
+			<item>http://tranhlua3d.com/product-image/md25.jpg</item>
+			<item>http://tranhlua3d.com/product-image/md26.jpg</item>
+			<item>http://tranhlua3d.com/product-image/md27.jpg</item>
+		</library>
+	</product>
+	<product>
+		<name>Mã đáo 3</name>
+		<description>Mã đáo 3 long description</description>
+		<short-description>Mã đáo 3 short description</short-description>
+		<price>100000</price>
+		<sale-price>90000</sale-price>
+		<category>Mã Đáo</category>
+		<image>http://tranhlua3d.com/product-image/md3.jpg,http://tranhlua3d.com/product-image/md25.jpg,http://tranhlua3d.com/product-image/md26.jpg,http://tranhlua3d.com/product-image/md27.jpg</image>		
+	</product>
+</products>

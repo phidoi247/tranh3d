@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<name>Test item 1</name>
+		<description>Test item 1 desc</description>
+		<price>100000</price>
+		<sale-price>90000</sale-price>
+		<category>1</category>
+		<image>anh.jpg</image>
+		<library>
+			<item>anh1.jpg</item>
+			<item>anh2.jpg</item>
+			<item>anh3.jpg</item>
+		</library>
+	</product>
+</products>
